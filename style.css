@@ -1,0 +1,50 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+
+ul{
+list-style: none;
+ text-align: right;
+ margin-top: -30px;
+ padding-right: 20px;
+ 
+   
+  
+}
+li,a{
+    display: inline-block;
+    font-family:  Source Sans Pro
+  
+    
+    
+  
+}
+nav{
+    display:inline-block;
+    
+}
+i{
+    color: #f8b732;
+}
+#div-b{
+display: inline-block;
+padding-top:50px; 
+
+}
+#div-a{
+    display: inline-block;
+}
+
+td{
+    color: red;
+}
+button{
+    background-color: #f2849e;
+    color: wnite;
+    padding: 2% 3%;
+    font-size: 16px;
+    border: none;
+    font-family:  Source Sans Pro;
+    color: white;
+}
+#cart{
+    color: white;
+}
